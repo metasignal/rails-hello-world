@@ -1,13 +1,14 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+
+I'm learning Rails. Seems like a great idea! 
+
+Ruby version: 3.0
+Rails version: 7.0.3
 
 Things you may want to cover:
 
-* Ruby version
 
-* System dependencies
 
 * Configuration
 
